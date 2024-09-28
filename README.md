@@ -1,8 +1,8 @@
-                                              Hello, World! 👋 I'm Mariano.
+                                              Hello, World! 🌎 I'm Mariano.
 
-                                              I'm a web developer 💻
+                                                I'm a web developer 💻
 
-                                              🔭 I’m looking to collaborate on anything 🎉
+                                      🔭 I’m looking to collaborate on anything 🚀 
 
 
 
